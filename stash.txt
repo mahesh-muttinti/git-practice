@@ -1,0 +1,1 @@
+This is sample file saved by git stash for later use
